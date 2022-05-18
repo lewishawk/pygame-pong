@@ -1,5 +1,7 @@
 # Pygame Pong
 Recreation of the hit game pong using pygame libraries.
+
+Currently using python 3.9.6
 ---
 Features:
 - Menu Screen.
